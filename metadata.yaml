@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/125
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17620#The-Point-Of-Honor--A-Military-Tale
 gutenberg_issued: '2006-01-29'
 gutenberg_type: Text
 identifiers:
